@@ -1,0 +1,24 @@
+Problem Statement:
+Given an array of intervals where intervals[i] = [start_i, end_i],
+merge all overlapping intervals and return an array of the non-overlapping intervals that cover all the intervals.
+
+Example:
+intervals = [[1,3],[2,6],[8,10],[15,18]]
+Output: [[1,6],[8,10],[15,18]]
+
+-------------------------------------------
+
+core idea:
+Intervals ko start time ke basis par sort karo.
+Phir ek-ek interval check karo:
+
+Agar current interval ka start ≤ previous interval ka end hai → overlap, merge karo.
+Agar overlap nahi hai → previous interval ko answer mein add karo aur current ko naya interval bana do.
+Example
+[1,3] [2,6] [8,10] [15,18]
+
+[1,3] and [2,6] overlap:
+
+[1,6]
+
+Final: [1,6] [8,10] [15,18]
