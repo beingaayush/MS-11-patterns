@@ -1,0 +1,11 @@
+𝟏. 𝐓𝐰𝐨 𝐒𝐮𝐦: Hashing, Arrays
+𝟐. 𝐌𝐞𝐫𝐠𝐞 𝐈𝐧𝐭𝐞𝐫𝐯𝐚𝐥𝐬: Sorting, Greedy
+𝟑. 𝐅𝐢𝐧𝐝 𝐅𝐢𝐫𝐬𝐭 𝐚𝐧𝐝 𝐋𝐚𝐬𝐭 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧 𝐨𝐟 𝐄𝐥𝐞𝐦𝐞𝐧𝐭: Binary Search
+𝟒. 𝐃𝐞𝐭𝐞𝐜𝐭 𝐂𝐲𝐜𝐥𝐞 𝐢𝐧 𝐚 𝐋𝐢𝐧𝐤𝐞𝐝 𝐋𝐢𝐬𝐭: Linked List, Floyd’s Cycle Detection
+𝟓. 𝐋𝐑𝐔 𝐂𝐚𝐜𝐡𝐞: HashMap + Doubly Linked List (Design, O(1) Operations)
+𝟔. 𝐒𝐮𝐛𝐬𝐞𝐭𝐬: Recursion, Backtracking
+𝟕. 𝐊𝐭𝐡 𝐋𝐚𝐫𝐠𝐞𝐬𝐭 𝐄𝐥𝐞𝐦𝐞𝐧𝐭 𝐢𝐧 𝐚𝐧å 𝐀𝐫𝐫𝐚𝐲: Heap (Priority Queue)
+𝟖. 𝐋𝐨𝐧𝐠𝐞𝐬𝐭 𝐏𝐚𝐥𝐢𝐧𝐝𝐫𝐨𝐦𝐢𝐜 𝐒𝐮𝐛𝐬𝐭𝐫𝐢𝐧𝐠: Dynamic Programming (DP), Strings
+𝟗. 𝐖𝐨𝐫𝐝 𝐁𝐫𝐞𝐚𝐤: Dynamic Programming, Trie (Optional)
+𝟏𝟎. 𝐃𝐢𝐣𝐤𝐬𝐭𝐫𝐚’𝐬 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦: Graphs, Shortest Path, Priority Queue
+𝟏𝟏. 𝐇𝐚𝐦𝐢𝐥𝐭𝐨𝐧𝐢𝐚𝐧 𝐏𝐚𝐭𝐡: Graphs, Backtracking, Bitmask DP (Advanced)
